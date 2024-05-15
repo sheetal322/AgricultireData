@@ -1,7 +1,7 @@
 # Getting Started with the Project
 
 
-### `npm install`
+### `yarn install / npm install`
 
 ### `yarn start`
 
